@@ -1,0 +1,130 @@
+
+.container{
+	width: 800px;
+}
+
+.try-left
+{
+	float: left;
+}
+
+.check
+{
+	float: right;
+}
+
+.tries  {
+  float: left;
+  border: 1px;
+  border-color: gray;
+  border-style: solid;
+  border-radius:  5%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-top: 15px;
+}
+
+.optionsContainer{
+  float: right;
+}
+
+.currenttry{
+  padding-bottom: 50px;
+}
+
+.placeholder{
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 0.5em;
+	background-color: #bbb;	
+	text-align: center;
+	font-size: 30px;
+	border-radius: 50%;
+	cursor: pointer;
+	padding:  10px;
+}
+
+.placeholder-check{
+	height: 49px;
+	width: 49px;
+	display: inline-block;
+	margin: 0.5em;	
+	text-align: center;
+	font-size: 30px;
+	border-radius: 50%;
+	border-color: gray;
+	border-style: dashed;
+	border-width: 1px;
+	cursor: pointer;
+	padding:  10px;	
+}
+
+.empty
+{
+	color: #e6e6e6;
+}
+
+.colorAndPlace
+{
+	background-color: green;	
+	color: white;
+}
+
+.place
+{
+	background-color: #bbb;	
+	color: green;
+}
+
+.placeholder-check-filled{	
+	display: inline-block;
+	text-align: center;
+	font-size: 30px;
+	border-radius: 50%;
+	border-color: gray;
+	border-style: dashed;
+	cursor: pointer;
+}
+
+.MessageContainer{
+  
+	
+}
+
+.mm-regularelement{
+	background-color: #bbb;
+	color: black;	
+}
+
+
+.glyphicon {
+  display: inline-block;
+  margin: 0.5em;
+  
+  text-align: center;
+  font-size: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  padding:  10px;
+}
+
+.selected
+{
+	background-color: #ccc;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
